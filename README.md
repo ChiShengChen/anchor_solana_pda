@@ -26,7 +26,7 @@ Currently, the program implements one instruction:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repo-url> # Replace with your repository URL
+    git clone https://github.com/ChiShengChen/anchor_solana_pda.git
     cd solana-pda-vault
     ```
 
